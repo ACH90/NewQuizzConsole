@@ -1,4 +1,10 @@
-Qui est Margaret Hamilton ?;une championne de ping pong/une pilote de F1/une informaticienne de légende;3
-Qui peut accéder à un attribut protected d'une classe en C# ?;ses classes dérivées/sa mère/son père/toutes les classes du même domaine;1
-Que permet le raccourci F9 sous Visual Studio Code ?;Mettre un signet/Mettre un point d'arrêt/Naviguer vers la définition;2
-Quelle commande permet de vérifier la version installée du sdk de .net ?;dotnet -v/dotnet --list-sdks/dotnet version;2
+Informatique;Qui est Margaret Hamilton ?;une championne de ping pong/une pilote de F1/une informaticienne de légende;3
+Informatique;Qui peut accéder à un attribut protected d'une classe en C# ?;ses classes dérivées/sa mère/son père/toutes les classes du même domaine;1
+Informatique;Que permet le raccourci F9 sous Visual Studio Code ?;Mettre un signet/Mettre un point d'arrêt/Naviguer vers la définition;2
+Informatique;Quelle commande permet de vérifier la version installée du sdk de .net ?;dotnet -v/dotnet --list-sdks/dotnet version;2
+Musique;Quel groupe a sorti l'album "The Dark Side of the Moon" ?;Led Zeppelin/Pink Floyd/The Beatles;2
+Musique;Qui a écrit la chanson "Bohemian Rhapsody" ?;The Rolling Stones/Queen/The Beatles;2
+Film;Quel acteur a joué le rôle de Jack dans le film "Titanic" ?;Leonardo DiCaprio/Brad Pitt/Johnny Depp;1
+Film;Quel réalisateur a dirigé le film "Inception" ?;Christopher Nolan/Quentin Tarantino/Steven Spielberg;1
+Jeux vidéos;Quel est le nom du personnage principal dans le jeu "The Legend of Zelda" ?;Link/Mario/Sonic;1
+Jeux vidéos;En quelle année a été publié le jeu "Super Mario Bros." ?;1985/1995/2005;1
